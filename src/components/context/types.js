@@ -1,0 +1,6 @@
+export const INCREASE_SCORE = 'INCREASE_SCORE';
+export const ADD_TIME = 'ADD_TIME';
+export const SET_DIFFICULTY = 'SET_DIFFICULTY';
+export const RESTART_GAME = 'RESTART_GAME';
+export const SET_CURRENT_WORD = 'SET_CURRENT_WORD';
+export const TOGGLE_GAME_STARTED = 'TOGGLE_GAME_STARTED';

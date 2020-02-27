@@ -1,0 +1,16 @@
+.game-display {
+  margin-top: 10em;
+  border: 1px solid #feff89;
+  width: 350px;
+  padding-bottom: 1em;
+  text-align: center;
+  position: relative;
+}
+
+.game-display header {
+  background-color: blueviolet;
+  width: 100%;
+  margin: 5px;
+  padding: 1px;
+  margin: 0;
+}
